@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JYCuzz&theme=tokyonight&show_icons=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYCuzz&layout=compact&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYCuzz&layout=compact&theme=tokyonight" width="350"/>
   <a href="https://solved.ac/hanafos944/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hanafos944" width="400"/>
   </a>

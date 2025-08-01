@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/h2database-09476B?style=for-the-badge&logo=h2database&logoColor=white" />
   <img src="https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/jpa-DD0031?style=for-the-badge&logo=jpa&logoColor=white" />
-  <img src="https://img.shields.io/badge/querydsl-4479A1?style=for-the-badge&logo=querydsl&logoColor=white" />
   <br>
 
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />

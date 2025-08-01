@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Jiyeop's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JYCuzz&theme=radical&show_icons=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYCuzz&layout=compact&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JYCuzz&theme=tokyonight&show_icons=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYCuzz&layout=compact&theme=tokyonight" width="400"/>
   <a href="https://solved.ac/hanafos944/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hanafos944" width="400"/>
   </a>

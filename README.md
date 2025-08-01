@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Jiyeop's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYCuzz&theme=radical&show_icons=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYCuzz&layout=compact&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanafos944)](https://solved.ac/hanafos944/)

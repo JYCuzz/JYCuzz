@@ -24,16 +24,12 @@
   <img src="https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/jpa-DD0031?style=for-the-badge&logo=jpa&logoColor=white" />
   <img src="https://img.shields.io/badge/querydsl-4479A1?style=for-the-badge&logo=querydsl&logoColor=white" />
-  <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <br>
 
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/feignclient-DD0031?style=for-the-badge&logo=feignclient&logoColor=white" />
   <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/swagger-61affe?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/minio-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
   <br>
 
   <img src="https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=jsonwebtokens" />

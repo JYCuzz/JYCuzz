@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Jiyeop's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=적극적인+소통으로+완성도를+높이는+개발자+장지엽+입니다.)](https://git.io/typing-svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYCuzz&theme=radical&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYCuzz&layout=compact&theme=radical) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYCuzz&theme=radical&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYCuzz&layout=compact&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanafos944)](https://solved.ac/hanafos944/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanafos944)](https://solved.ac/hanafos944/)
 
 <div align="center">
   <h1>🪛 Skills</h1>

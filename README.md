@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYCuzz&layout=compact&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanafos944)](https://solved.ac/hanafos944/)
 
 <div align="center">
-  <h1>🪛 STACKS</h1>
+  <h1>🪛 Skills</h1>
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
